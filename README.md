@@ -2,7 +2,9 @@
 
 Static Godot 4.7.1 Web export for GitHub Pages. Open `index.html` through an HTTP server; browsers do not permit loading the game directly from the filesystem.
 
-- Build: Teen Readiness 1.1.0-rc1
+- Build: Convergence Pass 1.1.0-rc2
+- Combat pace: visible 1x / 2x / 4x maps to 0.5 / 1.0 / 2.0 simulation scale
+- Interface: compact planning and combat modes plus the full-screen Crew Ledger
 - Renderer: GL Compatibility
 - Threading: disabled for standard GitHub Pages hosting
 - Main bundle: `index.pck` + `index.wasm`
